@@ -35,7 +35,7 @@ pip install -r requirements.txt
 
 ## Структура проекта
 
-pca_compression/
+pca_compression/  
 input/              # входные изображения  
 output/             # сжатые изображения  
 compressor.py       # PCA логика  
